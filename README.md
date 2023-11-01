@@ -18,14 +18,11 @@ Large Language Models (LLMs) have revolutionized natural language processing, en
 
 Here are some of the featured LLM projects in this repository:
 
-1. **Customer Segmentation with LLM**: [Link to Project A](https://github.com/1zuu/customer-segmentation-with-llm.ipynb)
-   - Description of Project A.
+1. **Customer Segmentation with LLM**: [click here](https://github.com/1zuu/customer-segmentation-with-llm.ipynb)
 
-2. **Human Query to SQL**: [Link to Project B](https://github.com/1zuu/query-to-sql.ipynb)
-   - Description of Project B.
+2. **Human Query to SQL**: [click here](https://github.com/1zuu/query-to-sql.ipynb)
 
-3. **Sales Call Analysis Agent**: [Link to Project C](https://github.com/1zuu/sales-call-analysis-agent.ipynb)
-   - Description of Project C.
+3. **Sales Call Analysis Agent**: [click here](https://github.com/1zuu/sales-call-analysis-agent.ipynb)
 
 Feel free to add your LLM projects to this list by submitting a pull request.
 
