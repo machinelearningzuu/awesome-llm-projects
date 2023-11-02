@@ -24,6 +24,8 @@ Here are some of the featured LLM projects in this repository:
 
 3. **Sales Call Analysis Agent**: [click here](https://github.com/1zuu/Awesome-LLM-Projects/blob/main/sales-call-analysis-agent.ipynb)
 
+4. **Build Production Grade RAG**: [click here](https://github.com/1zuu/Awesome-LLM-Projects/blob/main/build-production-grade-rag.ipynb)
+
 Feel free to add your LLM projects to this list by submitting a pull request.
 
 ## Resources
