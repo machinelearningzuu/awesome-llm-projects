@@ -18,13 +18,7 @@ Large Language Models (LLMs) have revolutionized natural language processing, en
 
 Here are some of the featured LLM projects in this repository:
 
-1. **Customer Segmentation with LLM**: [click here](https://github.com/1zuu/Awesome-LLM-Projects/blob/main/customer-segmentation-with-llm.ipynb)
-
-2. **Human Query to SQL**: [click here](https://github.com/1zuu/Awesome-LLM-Projects/blob/main/query-to-sql.ipynb)
-
-3. **Sales Call Analysis Agent**: [click here](https://github.com/1zuu/Awesome-LLM-Projects/blob/main/sales-call-analysis-agent.ipynb)
-
-4. **Build Production Grade RAG**: [click here](https://github.com/1zuu/Awesome-LLM-Projects/blob/main/build-production-grade-rag.ipynb)
+1. **Blog AI Assistant**: [click here](https://github.com/1zuu/awesome-llm-projects/tree/main/01-blog-ai-assiatant)
 
 Feel free to add your LLM projects to this list by submitting a pull request.
 
