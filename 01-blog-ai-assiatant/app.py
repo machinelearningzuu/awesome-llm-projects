@@ -14,16 +14,16 @@ from llama_index.embeddings import HuggingFaceEmbedding
 from llama_index import StorageContext, load_index_from_storage
 from llama_index import ServiceContext, SimpleDirectoryReader, TreeIndex, VectorStoreIndex
 
-with open('/Users/1zuu/Desktop/LLM RESEARCH/awesome-llm-projects/cadentials.yaml') as f:
+with open('C:/Work Space/LLM RESEARCH/awesome-llm-projects/cadentials.yaml') as f:
     credentials = yaml.load(f, Loader=yaml.FullLoader)
 
 chat_llm = LLMPredictor(
                         llm=AzureOpenAI(
-                                        deployment_name=credentials['AD_DEPLOYMENT_ID'],
-                                        model=credentials['AD_ENGINE'],
-                                        api_key=credentials['AD_OPENAI_API_KEY'],
-                                        api_version=credentials['AD_OPENAI_API_VERSION'],
-                                        azure_endpoint=credentials['AD_OPENAI_API_BASE']
+                                        deployment_name=credentials['AZURE_DEPLOYMENT_NAME'],
+                                        model=credentials['AZURE_ENGINE'],
+                                        api_key=credentials['AZURE_OPENAI_KEY'],
+                                        api_version=credentials['AZURE_OPENAI_VERSION'],
+                                        azure_endpoint=credentials['AZURE_OPENAI_BASE']
                                         )
                         )
 embedding_llm = HuggingFaceEmbedding(model_name="BAAI/bge-small-en-v1.5")
