@@ -24,7 +24,7 @@ Here are some of the featured LLM projects in this repository:
    * served with streamlit
   
 2. **Multimodal Image Retriever**: [click here](https://github.com/1zuu/awesome-llm-projects/tree/main/02-multimodal-image-retriever)
-   * download [backyard-bird] images (https://abcbirds.org/blog/backyard-birds/
+   * download [backyard-bird](https://abcbirds.org/blog/backyard-birds/) images
    * perform the multimodal rag using BGE embeddings for text, CLIP embeddings for images and gpt-3.5-turbo for generation
      
 Feel free to add your LLM projects to this list by submitting a pull request.
