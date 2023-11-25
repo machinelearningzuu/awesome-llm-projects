@@ -19,7 +19,14 @@ Large Language Models (LLMs) have revolutionized natural language processing, en
 Here are some of the featured LLM projects in this repository:
 
 1. **Blog AI Assistant**: [click here](https://github.com/1zuu/awesome-llm-projects/tree/main/01-blog-ai-assiatant)
-
+   * scrape blog articles realtime
+   * perform the rag using BGE embeddings and gpt-3.5-turbo
+   * served with streamlit
+  
+2. **Multimodal Image Retriever**: [click here](https://github.com/1zuu/awesome-llm-projects/tree/main/02-multimodal-image-retriever)
+   * download [backyard-bird] images (https://abcbirds.org/blog/backyard-birds/
+   * perform the multimodal rag using BGE embeddings for text, CLIP embeddings for images and gpt-3.5-turbo for generation
+     
 Feel free to add your LLM projects to this list by submitting a pull request.
 
 ## Resources
